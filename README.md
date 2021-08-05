@@ -8,6 +8,5 @@
 <p><img src="https://customer-stories-feed.github.com/customer_stories/sap/logo.svg" alt="SAP" height="16">SAP Business Process Integration Recognition Award</p>
 <p><img src="https://customer-stories-feed.github.com/customer_stories/sap/logo.svg" alt="SAP" height="16">SAP ABAP with SAP NetWeaver Certified</p>
 
-
 ## Contact
 <p><a href="www.linkedin.com/in/williangruber"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Willian Gruber's LinkedIn Profile" height="30" width="30"></a></p>
